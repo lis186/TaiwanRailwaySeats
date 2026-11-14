@@ -94,3 +94,14 @@ jobs:
             cat .cache/drift.txt
             exit 1
           fi
+
+      # healthchecks.io notifies when no success arrives in time (runs dropped or not started) or a failure arrives.
+      - name: Report to healthchecks.io
+        if: always()
+        env:
+          HC_PING_URL: ${{ secrets.HC_PING_URL }}
+          OUTCOME: ${{ job.status }}
+        run: |
+          [ -n "$HC_PING_URL" ] || exit 0
+          if [ "$OUTCOME" = success ]; then url="$HC_PING_URL"; else url="$HC_PING_URL/fail"; fi
+          curl -fsS -m 10 --retry 3 -o /dev/null "$url"
