@@ -1,6 +1,6 @@
 # TaiwanRailwaySeats
 
-把臺鐵「全線剩餘票」開放資料整理成依乘車日分檔的 JSON，每 6 小時檢查一次來源，並保留每次變動的 git 歷史。
+把臺鐵「全線剩餘票」開放資料整理成依乘車日分檔的 JSON，每天檢查四次來源，並保留每次變動的 git 歷史。
 
 本專案是 [TaiwanTyphoonDays](https://github.com/lis186/TaiwanTyphoonDays) 的同作者姊妹專案，做法相同：GitHub Actions 定時抓取、整理成結構化 JSON 後 commit，並透過 jsDelivr 提供。
 
@@ -136,7 +136,7 @@ python3 -m unittest discover -s tests   # 驗證
 
 ### 自動更新
 
-`.github/workflows/update.yml` 每 6 小時（臺灣時間 02:23、08:23、14:23、20:23）自動執行，也可在 Actions 頁面手動觸發：
+`.github/workflows/update.yml` 每天四次（臺灣時間 07:37、09:37、15:37、21:37）自動執行，也可在 Actions 頁面手動觸發：
 
 1. 下載原始檔並轉換。原始檔看起來有問題時**不發布**，該次執行標為失敗：不是合法 JSON、有欄位缺漏或格式不符、同一天有重複的組合、沒有今天（臺灣時間）的資料，或總筆數不到目前已發布的一半。
 2. 通過驗證、且日檔有變動才 commit。

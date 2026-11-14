@@ -2,10 +2,11 @@ name: update-data
 
 on:
   schedule:
-    # Cron is in UTC: 00:23 / 06:23 / 12:23 / 18:23 UTC = 08:23 / 14:23 / 20:23 / 02:23 Asia/Taipei (UTC+8).
-    # The source looks like one snapshot a day at an unknown time;
-    # off the hour because GitHub delays or drops scheduled runs at :00.
-    - cron: '23 */6 * * *'
+    # Cron is in UTC: 23:37 / 01:37 / 07:37 / 13:37 UTC = 07:37 / 09:37 / 15:37 / 21:37 Asia/Taipei (UTC+8).
+    # The source changed once between 06:40 and 07:10 Taipei on 2026-11-14: 07:37 picks it up, 09:37 is the
+    # backup, and the other two cover a change of that time. Off the hour because GitHub delays or drops
+    # scheduled runs at :00.
+    - cron: '37 23,1,7,13 * * *'
   workflow_dispatch:
 
 permissions:
