@@ -1,152 +1,148 @@
 {
   "schemaVersion": 1,
   "source": "https://ods.railway.gov.tw/tra-ods-web/ods/download/dataResource/5a2e672be26f4467a98f121d9ef43885",
-  "sourceSha256": "4cfbc1bb1f56634dbef06e940fc2c20560f0287dcd12c8a814569c723aa9106d",
-  "firstSeenAt": "2026-11-23T07:32:00+08:00",
+  "sourceSha256": "e6342afeeaa48a3f12fe1c7cf67b9649e5b056583748fc5be58cb8a7abd4877a",
+  "firstSeenAt": "2026-11-24T07:32:03+08:00",
   "dates": {
-    "2026-11-23": {
-      "rows": 13423,
-      "freeSeats": 201230
-    },
     "2026-11-24": {
-      "rows": 15132,
-      "freeSeats": 193221
+      "rows": 14911,
+      "freeSeats": 208561
     },
     "2026-11-25": {
-      "rows": 17255,
-      "freeSeats": 188546
+      "rows": 17136,
+      "freeSeats": 200558
     },
     "2026-11-26": {
-      "rows": 16771,
-      "freeSeats": 184951
+      "rows": 16265,
+      "freeSeats": 187689
     },
     "2026-11-27": {
-      "rows": 13120,
-      "freeSeats": 197409
+      "rows": 12539,
+      "freeSeats": 199151
     },
     "2026-11-28": {
-      "rows": 14263,
-      "freeSeats": 206600
+      "rows": 13978,
+      "freeSeats": 206569
     },
     "2026-11-29": {
-      "rows": 12879,
-      "freeSeats": 199382
+      "rows": 12581,
+      "freeSeats": 200375
     },
     "2026-11-30": {
-      "rows": 15110,
-      "freeSeats": 177555
+      "rows": 14704,
+      "freeSeats": 180202
     },
     "2026-12-01": {
-      "rows": 15081,
-      "freeSeats": 176241
+      "rows": 14970,
+      "freeSeats": 176305
     },
     "2026-12-02": {
-      "rows": 18740,
-      "freeSeats": 180256
+      "rows": 18705,
+      "freeSeats": 180292
     },
     "2026-12-03": {
-      "rows": 14640,
-      "freeSeats": 177455
+      "rows": 14598,
+      "freeSeats": 177865
     },
     "2026-12-04": {
-      "rows": 16052,
-      "freeSeats": 198381
+      "rows": 15874,
+      "freeSeats": 197723
     },
     "2026-12-05": {
-      "rows": 17776,
-      "freeSeats": 190194
+      "rows": 17423,
+      "freeSeats": 189700
     },
     "2026-12-06": {
-      "rows": 15473,
-      "freeSeats": 200192
+      "rows": 15130,
+      "freeSeats": 199405
     },
     "2026-12-07": {
-      "rows": 14986,
-      "freeSeats": 175063
+      "rows": 15116,
+      "freeSeats": 177549
     },
     "2026-12-08": {
-      "rows": 15579,
-      "freeSeats": 176942
+      "rows": 15568,
+      "freeSeats": 177124
     },
     "2026-12-09": {
       "rows": 14080,
-      "freeSeats": 176064
+      "freeSeats": 176114
     },
     "2026-12-10": {
-      "rows": 14878,
-      "freeSeats": 178881
+      "rows": 14814,
+      "freeSeats": 178985
     },
     "2026-12-11": {
-      "rows": 16927,
-      "freeSeats": 203870
+      "rows": 16763,
+      "freeSeats": 203060
     },
     "2026-12-12": {
-      "rows": 15946,
-      "freeSeats": 196737
+      "rows": 15836,
+      "freeSeats": 196259
     },
     "2026-12-13": {
-      "rows": 18281,
-      "freeSeats": 206216
+      "rows": 18030,
+      "freeSeats": 205482
     },
     "2026-12-14": {
-      "rows": 15983,
-      "freeSeats": 182600
+      "rows": 15974,
+      "freeSeats": 182983
     },
     "2026-12-15": {
-      "rows": 14099,
-      "freeSeats": 176129
+      "rows": 14068,
+      "freeSeats": 175890
     },
     "2026-12-16": {
-      "rows": 18564,
-      "freeSeats": 178384
+      "rows": 18538,
+      "freeSeats": 178492
     },
     "2026-12-17": {
-      "rows": 14478,
-      "freeSeats": 172867
+      "rows": 14780,
+      "freeSeats": 178362
     },
     "2026-12-18": {
-      "rows": 16542,
-      "freeSeats": 194742
+      "rows": 16499,
+      "freeSeats": 195188
     },
     "2026-12-19": {
-      "rows": 14572,
-      "freeSeats": 186072
+      "rows": 14511,
+      "freeSeats": 186605
     },
     "2026-12-20": {
-      "rows": 14343,
-      "freeSeats": 196077
+      "rows": 14172,
+      "freeSeats": 195865
     },
     "2026-12-21": {
-      "rows": 15094,
-      "freeSeats": 172682
+      "rows": 15238,
+      "freeSeats": 174384
     },
     "2026-12-22": {
-      "rows": 13402,
-      "freeSeats": 172305
+      "rows": 13448,
+      "freeSeats": 171647
     },
     "2026-12-23": {
-      "rows": 14217,
-      "freeSeats": 172916
+      "rows": 14292,
+      "freeSeats": 172156
     },
     "2026-12-24": {
-      "rows": 14464,
-      "freeSeats": 192482
+      "rows": 14801,
+      "freeSeats": 196373
     },
     "2026-12-25": {
-      "rows": 15631,
-      "freeSeats": 207844
+      "rows": 15912,
+      "freeSeats": 208262
     },
     "2026-12-26": {
-      "rows": 16722,
-      "freeSeats": 198684
+      "rows": 16749,
+      "freeSeats": 195455
     },
     "2026-12-27": {
-      "rows": 14666,
-      "freeSeats": 210084
+      "rows": 14236,
+      "freeSeats": 202992
     },
     "2026-12-28": {
-      "rows": 14086,
-      "freeSeats": 176201
+      "rows": 14340,
+      "freeSeats": 176478
     },
     "2026-12-29": {
       "rows": 170,
@@ -157,20 +153,20 @@
       "freeSeats": 66547
     },
     "2026-12-31": {
-      "rows": 359,
-      "freeSeats": 77548
+      "rows": 361,
+      "freeSeats": 77591
     },
     "2027-01-01": {
-      "rows": 436,
-      "freeSeats": 83093
+      "rows": 441,
+      "freeSeats": 83184
     },
     "2027-01-02": {
-      "rows": 230,
-      "freeSeats": 74199
+      "rows": 235,
+      "freeSeats": 74324
     },
     "2027-01-03": {
-      "rows": 345,
-      "freeSeats": 83533
+      "rows": 348,
+      "freeSeats": 83660
     },
     "2027-01-04": {
       "rows": 189,
@@ -185,8 +181,8 @@
       "freeSeats": 66131
     },
     "2027-01-07": {
-      "rows": 161,
-      "freeSeats": 66234
+      "rows": 163,
+      "freeSeats": 66277
     },
     "2027-01-08": {
       "rows": 169,
@@ -209,27 +205,27 @@
       "freeSeats": 66178
     },
     "2027-01-13": {
-      "rows": 145,
-      "freeSeats": 66123
+      "rows": 147,
+      "freeSeats": 66147
     },
     "2027-01-14": {
-      "rows": 152,
-      "freeSeats": 66252
+      "rows": 153,
+      "freeSeats": 66382
     },
     "2027-01-15": {
-      "rows": 161,
-      "freeSeats": 72225
+      "rows": 163,
+      "freeSeats": 72249
     },
     "2027-01-16": {
-      "rows": 196,
-      "freeSeats": 71912
+      "rows": 200,
+      "freeSeats": 71979
     },
     "2027-01-17": {
       "rows": 203,
-      "freeSeats": 75719
+      "freeSeats": 75750
     },
     "2027-01-18": {
-      "rows": 157,
+      "rows": 158,
       "freeSeats": 66821
     },
     "2027-01-19": {
@@ -241,8 +237,8 @@
       "freeSeats": 66259
     },
     "2027-01-21": {
-      "rows": 175,
-      "freeSeats": 66208
+      "rows": 177,
+      "freeSeats": 66266
     },
     "2027-01-22": {
       "rows": 177,
@@ -253,8 +249,8 @@
       "freeSeats": 72069
     },
     "2027-01-24": {
-      "rows": 195,
-      "freeSeats": 75747
+      "rows": 196,
+      "freeSeats": 75766
     },
     "2027-01-25": {
       "rows": 183,
@@ -265,8 +261,8 @@
       "freeSeats": 66177
     },
     "2027-01-27": {
-      "rows": 162,
-      "freeSeats": 66354
+      "rows": 163,
+      "freeSeats": 66355
     },
     "2027-01-28": {
       "rows": 148,
@@ -277,12 +273,12 @@
       "freeSeats": 72698
     },
     "2027-01-30": {
-      "rows": 166,
-      "freeSeats": 71270
+      "rows": 168,
+      "freeSeats": 71279
     },
     "2027-01-31": {
-      "rows": 194,
-      "freeSeats": 75650
+      "rows": 196,
+      "freeSeats": 75670
     },
     "2027-02-01": {
       "rows": 149,
@@ -293,7 +289,7 @@
       "freeSeats": 66085
     },
     "2027-02-03": {
-      "rows": 151,
+      "rows": 152,
       "freeSeats": 66029
     },
     "2027-02-04": {
@@ -305,20 +301,20 @@
       "freeSeats": 73054
     },
     "2027-02-06": {
-      "rows": 264,
-      "freeSeats": 73814
+      "rows": 265,
+      "freeSeats": 73861
     },
     "2027-02-07": {
-      "rows": 260,
-      "freeSeats": 77999
+      "rows": 263,
+      "freeSeats": 78020
     },
     "2027-02-08": {
-      "rows": 218,
-      "freeSeats": 68557
+      "rows": 220,
+      "freeSeats": 68572
     },
     "2027-02-09": {
-      "rows": 199,
-      "freeSeats": 67275
+      "rows": 201,
+      "freeSeats": 67318
     },
     "2027-02-10": {
       "rows": 180,
@@ -361,11 +357,11 @@
       "freeSeats": 72062
     },
     "2027-02-20": {
-      "rows": 158,
+      "rows": 160,
       "freeSeats": 70963
     },
     "2027-02-21": {
-      "rows": 167,
+      "rows": 169,
       "freeSeats": 74992
     },
     "2027-02-22": {
@@ -373,8 +369,8 @@
       "freeSeats": 66631
     },
     "2027-02-23": {
-      "rows": 139,
-      "freeSeats": 66036
+      "rows": 143,
+      "freeSeats": 66115
     },
     "2027-02-24": {
       "rows": 139,
@@ -390,11 +386,15 @@
     },
     "2027-02-27": {
       "rows": 150,
-      "freeSeats": 70928
+      "freeSeats": 70680
     },
     "2027-02-28": {
       "rows": 159,
-      "freeSeats": 74884
+      "freeSeats": 74636
+    },
+    "2027-03-02": {
+      "rows": 1,
+      "freeSeats": 382
     }
   }
 }
