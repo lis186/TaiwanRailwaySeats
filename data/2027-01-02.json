@@ -97,6 +97,7 @@
 {"trnOpDate":"2027-01-02","trnNo":"228","seatOriStaCode":"7160","seatDstStaCode":"7000","freeSeats":10},
 {"trnOpDate":"2027-01-02","trnNo":"231","seatOriStaCode":"0980","seatDstStaCode":"1040","freeSeats":15},
 {"trnOpDate":"2027-01-02","trnNo":"231","seatOriStaCode":"1000","seatDstStaCode":"1040","freeSeats":58},
+{"trnOpDate":"2027-01-02","trnNo":"231","seatOriStaCode":"7000","seatDstStaCode":"1000","freeSeats":10},
 {"trnOpDate":"2027-01-02","trnNo":"231","seatOriStaCode":"7000","seatDstStaCode":"1040","freeSeats":293},
 {"trnOpDate":"2027-01-02","trnNo":"232","seatOriStaCode":"1040","seatDstStaCode":"6220","freeSeats":538},
 {"trnOpDate":"2027-01-02","trnNo":"235","seatOriStaCode":"1000","seatDstStaCode":"1040","freeSeats":10},
@@ -171,6 +172,7 @@
 {"trnOpDate":"2027-01-02","trnNo":"419","seatOriStaCode":"1000","seatDstStaCode":"1040","freeSeats":2},
 {"trnOpDate":"2027-01-02","trnNo":"419","seatOriStaCode":"6000","seatDstStaCode":"1040","freeSeats":536},
 {"trnOpDate":"2027-01-02","trnNo":"419","seatOriStaCode":"6000","seatDstStaCode":"6130","freeSeats":2},
+{"trnOpDate":"2027-01-02","trnNo":"419","seatOriStaCode":"6130","seatDstStaCode":"1000","freeSeats":2},
 {"trnOpDate":"2027-01-02","trnNo":"420","seatOriStaCode":"1040","seatDstStaCode":"1000","freeSeats":11},
 {"trnOpDate":"2027-01-02","trnNo":"420","seatOriStaCode":"1040","seatDstStaCode":"6000","freeSeats":329},
 {"trnOpDate":"2027-01-02","trnNo":"420","seatOriStaCode":"7160","seatDstStaCode":"6000","freeSeats":11},
@@ -231,7 +233,10 @@
 {"trnOpDate":"2027-01-02","trnNo":"653","seatOriStaCode":"6000","seatDstStaCode":"6140","freeSeats":10},
 {"trnOpDate":"2027-01-02","trnNo":"653","seatOriStaCode":"7210","seatDstStaCode":"3360","freeSeats":10},
 {"trnOpDate":"2027-01-02","trnNo":"708","seatOriStaCode":"6000","seatDstStaCode":"4340","freeSeats":344},
-{"trnOpDate":"2027-01-02","trnNo":"727","seatOriStaCode":"5050","seatDstStaCode":"5120","freeSeats":81},
-{"trnOpDate":"2027-01-02","trnNo":"727","seatOriStaCode":"5050","seatDstStaCode":"6000","freeSeats":263},
+{"trnOpDate":"2027-01-02","trnNo":"727","seatOriStaCode":"5050","seatDstStaCode":"5120","freeSeats":82},
+{"trnOpDate":"2027-01-02","trnNo":"727","seatOriStaCode":"5050","seatDstStaCode":"6000","freeSeats":262},
+{"trnOpDate":"2027-01-02","trnNo":"727","seatOriStaCode":"5120","seatDstStaCode":"5230","freeSeats":1},
+{"trnOpDate":"2027-01-02","trnNo":"727","seatOriStaCode":"5220","seatDstStaCode":"5230","freeSeats":40},
+{"trnOpDate":"2027-01-02","trnNo":"727","seatOriStaCode":"5220","seatDstStaCode":"6000","freeSeats":1},
 {"trnOpDate":"2027-01-02","trnNo":"727","seatOriStaCode":"5230","seatDstStaCode":"6000","freeSeats":81}
 ]
